@@ -1,4 +1,4 @@
-webprofessional_base
-====================
+Web Professional Basis
+======================
 
-Web Professional Bassis (Vorlage für Übungen und Beispiele)
+Dieses Projekt dient als Vorlage für Übungen und Beispiele des CSS-Vertiefungsmoduls.
